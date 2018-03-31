@@ -1,0 +1,19 @@
+{
+  "name": "seo-checker-pkg",
+  "version": "1.0.0",
+  "description": "This is the nodejs package to detect the SEO defects",
+  "main": "seo_checker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivila/seo-checker.git"
+  },
+  "author": "Emma Lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivila/seo-checker/issues"
+  },
+  "homepage": "https://github.com/vivila/seo-checker#readme"
+}
